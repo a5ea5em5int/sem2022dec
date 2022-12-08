@@ -1,3 +1,3 @@
 ![workflow](https://github.com/a5ea5em5int/sem2022dec/actions/workflows/main.yml/badge.svg)
-[![LICENSE](https://img.shields.io/github/license/a5ea5em5int/sem.svg?style=flat-square)](https://github.com/a5ea5em5int/sem2022Dec/blob/master/LICENSE)
-[![Releases](https://img.shields.io/github/release/<github-username>/sem/all.svg?style=flat-square)](https://github.com/<github-username>/sem/releases)
+[![LICENSE](https://img.shields.io/github/license/a5ea5em5int/sem2022dec.svg?style=flat-square)](https://github.com/a5ea5em5int/sem2022Dec/blob/master/LICENSE)
+[![Releases](https://img.shields.io/github/release/a5ea5em5int/sem2022dec/all.svg?style=flat-square)](https://github.com/a5ea5em5int/sem2022dec/releases)
